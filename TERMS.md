@@ -18,5 +18,5 @@ These Terms of Use may be updated from time to time. Continued use of the mod co
 ## 6. License
 You may not violate the license, by reposting on blacklisted sites, or using in unauthorized situations.
 
-## 6. Contact Information
+## 7. Contact Information
 For any inquiries regarding these Terms of Use, please contact mrbreaknfix@gmail.com.
